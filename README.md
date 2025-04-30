@@ -1,0 +1,3 @@
+# 🇵🇬 PNG School Standards Inspector App
+An integrated multi-platform application to inspect and assess schools, teachers, and students in line with PNG Department of Education's Minimum Standards for Inspections (2018).
+...
